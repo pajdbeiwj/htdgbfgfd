@@ -1,1 +1,10 @@
-link https://docs.google.com/spreadsheets/d/1gxGXbzlJIZmfeqpritX-zt6H5ZQ3VfFO0h0PQPM8lAk
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=0
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=1
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=2
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=3
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=4
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=5
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=6
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=7
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=8
+https://colab.research.google.com/github/pajdbeiwj/123/blob/main/colab_GPU.ipynb?authuser=9
